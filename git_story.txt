@@ -7,4 +7,5 @@ So he went to his git and did a git add followed by a gitcommit
 But oh no, he got a git see ya wouldn't wanna be ya
 So he looked and realized I need to give my gitcommit a little space
 So he did a git commit again
-And happily ever after lived the git story. 
+And happily ever after lived the git story.
+Now he's a git master and lives the git life.  
