@@ -3,5 +3,8 @@ Once upon a time there was a man
 He went to github and made an account
 Afterwards, he wrote a beautiful story in Sublime. 
 It was so good he thought, why not commit this?
-So he went to his git and did a git add followed by a git commit
+So he went to his git and did a git add followed by a gitcommit
+But oh no, he got a git see ya wouldn't wanna be ya
+So he looked and realized I need to give my gitcommit a little space
+So he did a git commit again
 And happily ever after lived the git story. 
